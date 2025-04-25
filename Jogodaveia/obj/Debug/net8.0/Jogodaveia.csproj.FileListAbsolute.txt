@@ -1,0 +1,14 @@
+C:\Users\207.cllamaral\jogo da velha\Jogodaveia\bin\Debug\net8.0\Jogodaveia.exe
+C:\Users\207.cllamaral\jogo da velha\Jogodaveia\bin\Debug\net8.0\Jogodaveia.deps.json
+C:\Users\207.cllamaral\jogo da velha\Jogodaveia\bin\Debug\net8.0\Jogodaveia.runtimeconfig.json
+C:\Users\207.cllamaral\jogo da velha\Jogodaveia\bin\Debug\net8.0\Jogodaveia.dll
+C:\Users\207.cllamaral\jogo da velha\Jogodaveia\bin\Debug\net8.0\Jogodaveia.pdb
+C:\Users\207.cllamaral\jogo da velha\Jogodaveia\obj\Debug\net8.0\Jogodaveia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\207.cllamaral\jogo da velha\Jogodaveia\obj\Debug\net8.0\Jogodaveia.AssemblyInfoInputs.cache
+C:\Users\207.cllamaral\jogo da velha\Jogodaveia\obj\Debug\net8.0\Jogodaveia.AssemblyInfo.cs
+C:\Users\207.cllamaral\jogo da velha\Jogodaveia\obj\Debug\net8.0\Jogodaveia.csproj.CoreCompileInputs.cache
+C:\Users\207.cllamaral\jogo da velha\Jogodaveia\obj\Debug\net8.0\Jogodaveia.dll
+C:\Users\207.cllamaral\jogo da velha\Jogodaveia\obj\Debug\net8.0\refint\Jogodaveia.dll
+C:\Users\207.cllamaral\jogo da velha\Jogodaveia\obj\Debug\net8.0\Jogodaveia.pdb
+C:\Users\207.cllamaral\jogo da velha\Jogodaveia\obj\Debug\net8.0\Jogodaveia.genruntimeconfig.cache
+C:\Users\207.cllamaral\jogo da velha\Jogodaveia\obj\Debug\net8.0\ref\Jogodaveia.dll
