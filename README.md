@@ -1,4 +1,4 @@
-# Jogo da Velha (Console) ❌🟢
+# Jogo da Velha (Console) ❌⭕
 
 Este é um projeto simples de **Jogo da Velha** (Tic-Tac-Toe) desenvolvido em **C#** para **console**, utilizando o Visual Studio.
 
@@ -43,4 +43,5 @@ Programação orientada a objetos (caso aplicada)
 
 ## 👤 Autor
 Chris Lucca
+
 GitHub
