@@ -41,7 +41,5 @@ Estruturas condicionais
 
 Programação orientada a objetos (caso aplicada)
 
-## 👤 Autor
-Chris Lucca
-
-GitHub
+## 👨🏻‍💻 Autor
+Desenvolvido por [Chris Lucca](https://github.com/LuccaChris)
